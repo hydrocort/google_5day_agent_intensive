@@ -1,0 +1,15 @@
+name: google-agents
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - jupyter>=1.0.0
+  - ipykernel>=6.0.0
+  - notebook>=7.0.0
+  - ipython>=8.0.0
+  - pip>=23.0.0
+  - pip:
+      - google-adk>=0.1.0
+      - python-dotenv>=1.0.0
+
