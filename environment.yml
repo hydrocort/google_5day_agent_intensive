@@ -10,6 +10,6 @@ dependencies:
   - ipython>=8.0.0
   - pip>=23.0.0
   - pip:
-      - google-adk>=0.1.0
+      - google-adk[eval]>=0.1.0
       - python-dotenv>=1.0.0
 
