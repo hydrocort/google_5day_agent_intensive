@@ -7,3 +7,5 @@ Day 2: https://www.youtube.com/watch?v=Cr4NA6rxHAM
 Day 3: https://www.youtube.com/watch?v=FMcExVE15a4
 
 Day 4: https://www.youtube.com/watch?v=LFQRy-Ci-lk
+
+Day 5: https://www.kaggle.com/learn-guide/5-day-agents
